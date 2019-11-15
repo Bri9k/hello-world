@@ -1,4 +1,4 @@
 # hello-world
 Hello, World !
 
-Dummy repository for showing git commands
+Changed stuff. Will need to resolve merge conflicts now.
