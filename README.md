@@ -1,4 +1,4 @@
 # hello-world
 Hello, World !
 
-Changed stuff. Will need to resolve merge conflicts now.
+This is a repository for showing basic git commands.
